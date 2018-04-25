@@ -1,10 +1,10 @@
 # SonarDoc
 
 先看一下效果图
-![Alt text](https://github.com/duanbi/SonarDoc/raw/master/image/效果图01.png)
-![Alt text](https://github.com/duanbi/SonarDoc/raw/master/image/效果图02.png)
-![Alt text](https://github.com/duanbi/SonarDoc/raw/master/image/效果图03.png)
-![Alt text](https://github.com/duanbi/SonarDoc/raw/master/image/效果图04.png)
+![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
+![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
+![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
+![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
 
 SonarQube安装和使用
 
@@ -15,7 +15,9 @@ sonar-scanner-msbuild：https://docs.sonarqube.org/display/SCAN/Analyzing+with+S
 
 参考：
 https://www.cnblogs.com/qiaoyeye/p/5249786.html
+
 http://www.cnblogs.com/jingridong/p/6513884.html
+
 https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
 
 
