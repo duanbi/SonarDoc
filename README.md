@@ -6,14 +6,18 @@
 ![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
 ![Alt text](https://github.com/duanbi/SonarDoc/blob/master/效果图01.png)
 
+
 SonarQube安装和使用
+
 
 下载地址：
 SonarQube ：http://www.sonarqube.org/downloads/
+
 sonar-scanner-msbuild：https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
 
 
-参考：
+参考文档：
+
 https://www.cnblogs.com/qiaoyeye/p/5249786.html
 
 http://www.cnblogs.com/jingridong/p/6513884.html
